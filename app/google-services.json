@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1090541166079",
+    "project_id": "expressiondetection-a9f26",
+    "storage_bucket": "expressiondetection-a9f26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090541166079:android:ef7c2a8b92b2298cf45bca",
+        "android_client_info": {
+          "package_name": "com.udemycource.expressiondetection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw1mAPUl6RDAMMG2EPtaKoI9TXbDsT1iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
